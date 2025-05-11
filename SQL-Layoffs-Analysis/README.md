@@ -27,5 +27,5 @@ As part of a workforce analytics case study, this project focused on cleaning an
 - layoffs.csv :  Original dataset used for analysis
 
 ## ✅ Outcome
-This project showcases a complete data pipeline in SQL — from raw input to refined insights — using professional query design patterns and thoughtful analysis techniques.
+This project showcases a complete data pipeline in SQL, from raw input to refined insights, using professional query design patterns and thoughtful analysis techniques.
 
