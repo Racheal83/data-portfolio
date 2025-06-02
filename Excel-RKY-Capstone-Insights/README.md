@@ -1,4 +1,4 @@
-# 📊 RKY Mega Stores Excel Capstone Project
+# 📊 Mega Stores Excel Project
 
 This capstone project was completed as part of a business intelligence training program. I acted as a Business Intelligence Analyst for *RKY Mega Stores*, a UK-based retailer. My role was to extract actionable insights from their historical sales and order data (2009–2012) using Excel.
 
