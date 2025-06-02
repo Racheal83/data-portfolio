@@ -94,7 +94,7 @@ The interactive Excel dashboard includes:
 
 ## 📎 File Contents
 
-- `VintageCouture_SalesDashboard.xlsx` – Fully interactive Excel dashboard
+- `Revenue trend dashboard.xlsx` – Fully interactive Excel dashboard
 - `README.md` – This documentation
 
 ---
